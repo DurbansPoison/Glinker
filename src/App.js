@@ -9,10 +9,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
 				<h1>DurbanPoisonPew</h1>
-      </header>
-			<body>
 				<LinkerContainer />
-			</body>
+      </header>
+
     </div>
   );
 }

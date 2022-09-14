@@ -8,7 +8,7 @@ function LinkerContainer() {
 	return (
 		<Container className='LinkerContainer' style={{alignItems: 'center'}}>
 			<Card style={{ width: '300px', height: '200px' }}>
-				<Card.Title style={{color: 'white', fontWeight:'heavy', fontSize: '40px'}}>Durban's Links</Card.Title>
+				<Card.Title style={{color: 'white', fontWeight:'bolder', fontSize: '50px'}}>Durban's Links</Card.Title>
 				<Button
 					href='https://odysee.com/@DurbanPoisonPew:9'
 					varriant='secondary' className='Link'>
