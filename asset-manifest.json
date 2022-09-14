@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Glinker/static/css/main.ad8c493c.css",
+    "main.js": "/Glinker/static/js/main.04c960c6.js",
+    "static/js/787.e37b2eb8.chunk.js": "/Glinker/static/js/787.e37b2eb8.chunk.js",
+    "static/media/logo.png": "/Glinker/static/media/logo.fc233ba0e233a1c14f70.png",
+    "index.html": "/Glinker/index.html",
+    "main.ad8c493c.css.map": "/Glinker/static/css/main.ad8c493c.css.map",
+    "main.04c960c6.js.map": "/Glinker/static/js/main.04c960c6.js.map",
+    "787.e37b2eb8.chunk.js.map": "/Glinker/static/js/787.e37b2eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad8c493c.css",
+    "static/js/main.04c960c6.js"
+  ]
+}
