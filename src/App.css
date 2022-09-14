@@ -3,21 +3,20 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 200px;
   pointer-events: none;
 }
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-		height: 60%;
-		width: 60%;
+		height: 400PX;
     animation: App-logo-spin infinite 20s linear;
   }
 }
 
 .App-header {
   background-color: #282c34;
-  min-height: 2vh;
+	min-height:100vh;
 	padding-top: 50px;
   display: flex;
   flex-direction: column;
@@ -48,7 +47,7 @@
 .LinkerContainer{
 	align-items: center;
 	background-color:#282c34;
-	min-height:100vh;
+
   display: flex;
   flex-direction: column;
   align-items: center;
