@@ -3,14 +3,15 @@ import logo from './logo.png';
 import './App.css';
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
-
+// import TermContainer from './components/TermContainer';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
+	  <h1 className="App-Title">DURBANPOISONPEW</h1>
         <img src={logo} className="App-logo" alt="logo" />
-				<h1>DurbanPoisonPew</h1>
+
 				<Card style={{ }}>
 				<Card.Title style={{color: 'white', fontWeight:'bolder', fontSize: '50px'}}>Durban's Links</Card.Title>
 				<Button
@@ -33,7 +34,7 @@ function App() {
 				</Button>
 			</Card>
       </header>
-
+	  {/* <TermContainer /> */}
     </div>
   );
 }
