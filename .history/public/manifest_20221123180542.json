@@ -1,6 +1,6 @@
 {
   "short_name": "DurbanPoisonPew.fun",
-  "name": "Links Cuz Instagram Hates Me Using Linktree",
+  "name": "Links",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +20,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#f47a5b",
-  "background_color": "#282c34"
+  "theme_color": "#000000",
+  "background_color": "##282c34"
 }
