@@ -29,7 +29,7 @@ function App() {
 						Defcad
 					</Button>
 					<Button
-						href='https://cults3d.com/en/users/durbanpoisonpew/creations'
+						href='https://cults3d.com/en/creations/mine'
 						variant='secondary'
 						className='Link'>
 						Cults3d

@@ -90,14 +90,13 @@ h1 {
 }
 
 .Link {
-	font-family: cybero;
 	color: #f47a5b;
 	display: flex;
 	align-items: center;
 	justify-content: center;
 	padding: 10px;
-	font-size: 25px;
-	font-weight: bold;
+	font-size: 30px;
+	font-weight: bolder;
 }
 
-
+.
