@@ -40,6 +40,29 @@
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
 		<script src="https://komito.net/komito.js" async></script>
-
+<script>
+// The default configuration can be omitted and only changed properties can be included.
+var _komito = _komito || {
+'trackTwitter': 1,     // Tracks Twitter events if widget is presented on page.
+'trackFacebook': 1,    // Tracks Facebook events if widget is presented on page.
+'trackLinkedIn': 1,    // Tracks LinkedIn events if plugin is presented on page.
+'trackDownloads': 1,   // Tracks files download links.
+'trackOutbound': 1,    // Tracks outbound links.
+'trackForms': 1,       // Tracks forms submissions.
+'trackUsers': 1,       // Tracks pageviews by users logged in to social networks.
+'trackActions': 1,     // Tracks 'mailto', 'tel', 'sms' and 'skype' actions.
+'trackPrint': 1,       // Tracks page print actions.
+'trackOrientation': 1, // Tracks orientation change on mobile devices.
+'trackColorScheme': 1, // Tracks user preferred color scheme.
+'trackAdblock': 0,     // Tracks page views with blocked ads. (Experimental)
+'trackErrorPages': 0,  // Tracks error pages. (Experimental)
+'sendHeartbeat': 0,    // Sends heartbeat event. (Default interval 30 seconds)
+'debugMode': 0,        // Prints all requests to console.
+'trackScroll': [25, 50, 75, 100], // Tracks scroll depth.
+'trackMedia': ['html5', 'vimeo', 'youtube'], // Tracks HTML5 video, audio, Vimeo and YouTube players events.
+'nonInteraction': ['adblock', 'audio', 'color-scheme', 'form', 'heartbeat',
+'orientation', 'print', 'scroll', 'video'] // List of non interaction events.
+};
+</script>
   </body>
 </html>
