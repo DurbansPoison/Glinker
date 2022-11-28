@@ -40,13 +40,10 @@ function App() {
 						className='Link'>
 						Instagram
 					</Button>
-					<Button
-						href='https://www.twitter.com/durbanpoisonpew'
-						varient='secondart'
-						className='Link'>
-							Twitter
-					</Button>
-					
+					<Butto
+
+					</Butto>
+
 					{/* <Button href='https://www.etsy.com/shop/DurbanPoisonPew?ref=seller-platform-mcnav' variant='secondary' className='Link'>
 					My Store
 				</Button> */}

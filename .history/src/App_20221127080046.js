@@ -46,7 +46,7 @@ function App() {
 						className='Link'>
 							Twitter
 					</Button>
-					
+
 					{/* <Button href='https://www.etsy.com/shop/DurbanPoisonPew?ref=seller-platform-mcnav' variant='secondary' className='Link'>
 					My Store
 				</Button> */}
