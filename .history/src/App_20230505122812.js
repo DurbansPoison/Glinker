@@ -47,7 +47,7 @@ function App() {
 						Twitter
 					</Button>
 					<Button href='https://arewecoolyet.wtf/'
-							variant='secondary'
+							variant='secondary' 
 							className='Link'>
 						Are We Cool Yet?
 					</Button>

@@ -27,7 +27,8 @@ h1 {
 }
 
 .App-logo {
-
+	height: 100px;
+	width: 100px;
 	pointer-events: none;
 	display: flex;
 	flex-direction: row;

@@ -18,10 +18,10 @@ function App() {
 					</Card.Title>
 					<Button
 						href='https://www.etsy.com/shop/DurbanPoisonPew/edit?ref=edit_trust_header'
-						varriant='secondary'
+						variant='secondary'
 						className='Link'>
-						Merch
-					</Button>
+							Merch
+							</Button>
 					<Button
 						href='https://odysee.com/@DurbanPoisonPew:9'
 						varriant='secondary'
@@ -42,15 +42,11 @@ function App() {
 					</Button>
 					<Button
 						href='https://www.twitter.com/durbanpoisonpew'
-						variant='secondary'
+						varient='secondart'
 						className='Link'>
-						Twitter
+							Twitter
 					</Button>
-					<Button href='https://arewecoolyet.wtf/'
-							variant='secondary'
-							className='Link'>
-						Are We Cool Yet?
-					</Button>
+
 					{/* <Button href='https://www.etsy.com/shop/DurbanPoisonPew?ref=seller-platform-mcnav' variant='secondary' className='Link'>
 					My Store
 				</Button> */}
