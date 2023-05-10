@@ -46,11 +46,8 @@ function App() {
 						className='Link'>
 						Twitter
 					</Button>
-					<Button href='https://ko-fi.com/durbanpoisonpew'
-							variant='secondary'
-							className='Link'>
+					<Button>
 						Buy Me A Coffee
-					</Button>
 					<Button href='https://arewecoolyet.wtf/'
 							variant='secondary'
 							className='Link'>

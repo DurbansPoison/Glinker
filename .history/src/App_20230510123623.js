@@ -48,8 +48,8 @@ function App() {
 					</Button>
 					<Button href='https://ko-fi.com/durbanpoisonpew'
 							variant='secondary'
-							className='Link'>
-						Buy Me A Coffee
+							classNamme='Link'>
+						Buy Me A Coffe
 					</Button>
 					<Button href='https://arewecoolyet.wtf/'
 							variant='secondary'
