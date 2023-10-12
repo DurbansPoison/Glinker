@@ -42,7 +42,7 @@ h1 {
 }
 @media (prefers-reduced-motion: no-preference) {
 	.App-logo {
-		height: 150px;
+		height: 100px;
 		width: 150px;
 		display: flex;
 		flex-direction: row;

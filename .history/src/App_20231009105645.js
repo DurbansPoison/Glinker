@@ -22,6 +22,13 @@ function App() {
 						className='Link'>
 						DIY MAC BETA Link
 					</Button>
+
+					<Button
+						href='https://www.etsy.com/shop/DurbanPoisonPew/edit?ref=edit_trust_header'
+						varriant='secondary'
+						className='Link'>
+						Merch
+					</Button>
 					<Button
 						href='https://odysee.com/@DurbanPoisonPew:9'
 						varriant='secondary'

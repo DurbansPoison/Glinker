@@ -16,11 +16,13 @@ function App() {
 					<Card.Title className='CardTitle'>
 						<u>Links:</u>
 					</Card.Title>
+					<Button 
+						href-=
 					<Button
-						href='https://matrix.to/#/%23AWCY-DIYMacUpper:matrix.org'
+						href='https://www.etsy.com/shop/DurbanPoisonPew/edit?ref=edit_trust_header'
 						varriant='secondary'
 						className='Link'>
-						DIY MAC BETA Link
+						Merch
 					</Button>
 					<Button
 						href='https://odysee.com/@DurbanPoisonPew:9'
@@ -46,16 +48,14 @@ function App() {
 						className='Link'>
 						Twitter
 					</Button>
-					<Button
-						href='https://ko-fi.com/durbanpoisonpew'
-						variant='secondary'
-						className='Link'>
+					<Button href='https://ko-fi.com/durbanpoisonpew'
+							variant='secondary'
+							className='Link'>
 						Buy Me A Coffee
 					</Button>
-					<Button
-						href='https://arewecoolyet.wtf/'
-						variant='secondary'
-						className='Link'>
+					<Button href='https://arewecoolyet.wtf/'
+							variant='secondary'
+							className='Link'>
 						Are We Cool Yet?
 					</Button>
 					{/* <Button href='https://www.etsy.com/shop/DurbanPoisonPew?ref=seller-platform-mcnav' variant='secondary' className='Link'>
