@@ -22,6 +22,12 @@ function App() {
 						className='Link'>
 						DIY MAC BETA Link
 					</Button>
+					<Button 
+						href='https://durbanspoison.github.io/readme-gen/'
+						varriant='secondary'
+						className='Link'>
+							README Generator
+						</Button>
 					<Button
 						href='https://odysee.com/@DurbanPoisonPew:9'
 						varriant='secondary'
